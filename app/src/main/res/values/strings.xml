@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WEATHER APP</string>
+    <string name="network_not_available">Network not available</string>
+</resources>
